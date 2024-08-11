@@ -1,5 +1,7 @@
 # 🤖 PerimeterX Solver (v6.7.9) 🤖
 
+![PX](https://github.com/user-attachments/assets/f1ac24e4-a724-468a-9b09-40046f19f4ad)
+
 Telegram: @pr0t0nlol
 
 Discord: @poft
