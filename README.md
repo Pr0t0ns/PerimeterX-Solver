@@ -6,7 +6,7 @@ Discord: @poft
 
 Telegram Channel: https://t.me/+Tvbz-xGh_5pjYzVh
 
-NOTE: This script only works for sites that have version (tag) 6.7.9 implemented it won't work on any other version. If you're interested in a more recent/older version you can contact me on telegram or discord (telegram perferably). Contact info is provided above.
+NOTE: This script only works for sites that have version (tag) 6.7.9 implemented it won't work on any other version. If you're interested in purchasing a more recent/older version of PX you can contact me on telegram or discord (telegram perferably). Contact info is provided above.
 
 🗞️ DESCRIPTION 🗞️
 
