@@ -1,7 +1,9 @@
 # 🤖 PerimeterX Solver (v6.7.9) 🤖
 
 Telegram: @pr0t0nlol
+
 Discord: @poft
+
 Telegram Channel: https://t.me/+Tvbz-xGh_5pjYzVh
 
 NOTE: This script only works for sites that have version (tag) 6.7.9 implemented it won't work on any other version. If you're interested in a more recent/older version you can contact me on telegram or discord (telegram perferably). Contact info is provided above.
