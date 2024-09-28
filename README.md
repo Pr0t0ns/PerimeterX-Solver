@@ -2,7 +2,7 @@
 
 ![PX](https://github.com/user-attachments/assets/f1ac24e4-a724-468a-9b09-40046f19f4ad)
 
-Telegram: @pr0t0ngoat
+Telegram: @pr0t0ngoated (https://t.me/pr0t0ngoated)
 
 Telegram Channel: https://t.me/+Tvbz-xGh_5pjYzVh
 
