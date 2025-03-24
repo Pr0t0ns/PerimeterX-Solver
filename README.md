@@ -2,7 +2,7 @@
 
 ![PX](https://github.com/user-attachments/assets/f1ac24e4-a724-468a-9b09-40046f19f4ad)
 
-Telegram: @Pr0t0nwave (https://t.me/Pr0t0nwave)
+Telegram: @autographed (https://t.me/autographed)
 
 Telegram Channel: https://t.me/+Tvbz-xGh_5pjYzVh
 
