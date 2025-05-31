@@ -6,7 +6,7 @@ Telegram: @autographed (https://t.me/autographed)
 
 Telegram Channel: https://t.me/+Tvbz-xGh_5pjYzVh
 
-NOTE: For inquiries regarding the purchase of newer or older versions of PX, please reach out via Telegram or Discord (Telegram preferred). Contact details are provided above.
+NOTE: For inquiries regarding the purchase of newer versions of PX, please reach out via Telegram. Contact details are provided above.
 
 🗞️ DESCRIPTION 🗞️
 
