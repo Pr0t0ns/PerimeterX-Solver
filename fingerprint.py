@@ -5,6 +5,7 @@ import pytz
 from datetime import datetime
 import urllib.parse
 from mods import fn, generate_pc
+
 def fingerprint_1(host: str, uuid: str, st: int):
     return json.dumps(([{
         "t": "PX2",
