@@ -2,9 +2,11 @@
 
 ![PX](https://github.com/user-attachments/assets/f1ac24e4-a724-468a-9b09-40046f19f4ad)
 
+# Pay-per use PerimeterX service is coming soon to https://silentsolve.xyz #
+
 Telegram: @autographed (https://t.me/autographed)
 
-Telegram Channel: https://t.me/+Tvbz-xGh_5pjYzVh
+Telegram Channel: https://t.me/+KwQYzhJryu5mMjMx
 
 NOTE: For inquiries regarding the purchase of newer versions of PX, please reach out via Telegram. Contact details are provided above.
 
