@@ -2,20 +2,24 @@
 
 ![PX](https://github.com/user-attachments/assets/f1ac24e4-a724-468a-9b09-40046f19f4ad)
 
-# Pay-per use PerimeterX service is coming soon to https://silentsolve.xyz #
+NOTE: For inquiries regarding the purchase of newer versions of PX please feel free to reach out via Telegram. Contact details to SilentSolve are provided below.
 
-Telegram: @autographed (https://t.me/autographed)
+*Silent Solve Links*
 
-Telegram Channel: https://t.me/+KwQYzhJryu5mMjMx
+https://discord.gg/SilentSolve (Official Discord Channel)
 
-NOTE: For inquiries regarding the purchase of newer versions of PX, please reach out via Telegram. Contact details are provided above.
+https://t.me/SilentSolve (Official Telegram Channel)
+
+https://t.me/SilentSolveVouches (Customer Vouches/Testimonials)
+
+# Pay-per use PerimeterX service is coming to https://silentsolve.xyz soon #
 
 🗞️ DESCRIPTION 🗞️
 
-As promised I posted my PerimeterX Solver for PX version 6.7.9. I completely reversed this myself and I didn't care to "improve" or "beautify" the code so please don't expect the code to be the most efficent. 
+As promised I posted my PerimeterX Solver for PX version v6.7.9. I completely reversed this myself and didn't care to "improve" or "beautify" the code so please don't expect the program to be the most efficent. 
 
 🤑 Extra 🤑
 
-For the more advanced people yes the code isn't great and if you wanted their is still much to improve. their are few hardcoded values in the fingerprint that are dynamic I just didn't want to waste time reversing those keys since I was already generating valid cookies. Feel free to make a pull request if you add any of these features.  
+For the more advanced people yes the code isn't great and if you wanted their is still much to improve. their are few hardcoded values in the WEBGL fingerprint that are dynamic, I just didn't want to waste time reversing those keys since I was already generating valid cookies for the majority. Feel free to make a pull request if you add any of these features. 
 
 # LIKE AND STAR THIS REPO FOR MORE REVERSES #
